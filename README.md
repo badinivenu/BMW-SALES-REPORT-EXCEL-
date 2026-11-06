@@ -1,12 +1,12 @@
-# 🚗 BMW Sales Analytics Dashboard (Excel)
+#  BMW Sales Analytics Dashboard (Excel)
 
-## 📌 Project Overview
+##  Project Overview
 This project showcases an **interactive BMW Sales Analytics Dashboard** developed using **Microsoft Excel**.  
 The dashboard analyzes **sales performance, revenue trends, order metrics, customer preferences, and regional insights** to support **business intelligence and data-driven decision-making**.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Monitor overall **BMW sales and revenue performance**
 - Analyze **orders, average revenue, and sales trends**
 - Compare **region-wise sales and revenue**
@@ -15,7 +15,7 @@ The dashboard analyzes **sales performance, revenue trends, order metrics, custo
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - **Microsoft Excel**
 - **Pivot Tables & Pivot Charts**
 - **Excel Formulas** (SUM, AVERAGE, IF, COUNT, VLOOKUP/XLOOKUP)
@@ -24,7 +24,7 @@ The dashboard analyzes **sales performance, revenue trends, order metrics, custo
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 - **Total Revenue:** $19.0T  
 - **Average Revenue:** $380M  
 - **Total Orders:** 253M  
@@ -32,9 +32,9 @@ The dashboard analyzes **sales performance, revenue trends, order metrics, custo
 
 ---
 
-## 📊 Dashboard Insights
+## Dashboard Insights
 
-### 🔹 Region-wise Analysis
+###  Region-wise Analysis
 - Region-wise **total revenue and sales count**
 - Comparison across:
   - Asia
@@ -47,7 +47,7 @@ The dashboard analyzes **sales performance, revenue trends, order metrics, custo
 
 ---
 
-### 🔹 Product & Customer Preferences
+###  Product & Customer Preferences
 - **Color-wise sales count** (Red, Silver, White, Grey, Blue, Black)
 - **Fuel type analysis** (Hybrid, Petrol, Electric, Diesel)
 - **Engine type distribution** (Small, Medium, Large, Sports Engine)
@@ -55,21 +55,21 @@ The dashboard analyzes **sales performance, revenue trends, order metrics, custo
 
 ---
 
-### 🔹 Sales & Revenue Trends
+###  Sales & Revenue Trends
 - **Year-wise total revenue trend** (2010–2024)
 - **Year-wise total sales count**
 - Helps identify **growth patterns, peak years, and decline periods**
 
 ---
 
-### 🔹 Order & Sales Distribution
+###  Order & Sales Distribution
 - Breakdown of **sales count by engine type**
 - Transmission-wise contribution using donut charts
 - Supports inventory and product planning decisions
 
 ---
 
-## 🔍 Filters & Interactivity
+##  Filters & Interactivity
 The dashboard includes interactive slicers for:
 - Color
 - Fuel Type
@@ -83,7 +83,7 @@ These filters allow users to dynamically explore and customize insights.
 
 ---
 
-## 🚀 Key Learnings
+##  Key Learnings
 - Strong hands-on experience with **Excel dashboards**
 - Improved understanding of **sales and business KPIs**
 - Built interactive dashboards using **pivot tables and slicers**
